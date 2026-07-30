@@ -1,0 +1,17 @@
+{
+  "name": "tesla-option",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "axios": "^1.8.0",
+    "socket.io-client": "^4.8.0"
+  }
+}
